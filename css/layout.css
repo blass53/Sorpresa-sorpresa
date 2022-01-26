@@ -5,6 +5,7 @@
     --margenExterno: 30px;
     --logoAltura: 50px;
     --longNav: 0.5;
+    --img1Altura: 400px;
 }
 
 /* HEADER */
@@ -19,6 +20,11 @@ header{
 /* LOGO */
 .logo{
     height: var(--logoAltura);
+}
+
+/* FOTO 1 */
+.foto1{
+    height: var(--img1Altura);
 }
 
 /* NAV */
