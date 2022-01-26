@@ -10,7 +10,7 @@
 
 /* HEADER */
 header{
-    background-color: #eee;
+    background-color: rgb(255, 185, 56);
     display: flex;
     align-items: center;
     justify-content: space-between;
