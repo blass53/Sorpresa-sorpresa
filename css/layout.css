@@ -22,8 +22,13 @@ header{
     height: var(--logoAltura);
 }
 
+main{
+    background-color: orange;
+}
+
 /* FOTO 1 */
 .foto1{
+    margin-left: 30px;
     height: var(--img1Altura);
 }
 
